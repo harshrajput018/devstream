@@ -77,7 +77,6 @@ export default function DevStreamPro() {
                 fontSize: 14,
                 minimap: { enabled: false },
                 padding: { top: 20 },
-                backgroundColor: '#0d0d0f',
                 scrollBeyondLastLine: false,
               }}
             />
